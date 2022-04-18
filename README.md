@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Lw3-cli](https://github.com/LearnWeb3DAO/lw3-cli)
 
-- 📝 I regularly write articles on [https://hashnode.com/@ehsanqaderi](https://hashnode.com/@ehsanqaderi)
-
 - 💬 Ask me about **react, javascript, solidity**
 
 - 📫 How to reach me **qaderi.coding.com**
