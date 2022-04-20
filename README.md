@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, javascript, solidity**
 
-- 📫 How to reach me **qaderi.coding.com**
+- 📫 How to reach me **qaderi.coding@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
